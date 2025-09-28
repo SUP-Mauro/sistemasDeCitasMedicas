@@ -1,0 +1,7 @@
+D:\SEMANA_06\Ejemplo5\SistemaCitasMedicas\bin\Debug\SistemaCitasMedicas.exe.config
+D:\SEMANA_06\Ejemplo5\SistemaCitasMedicas\bin\Debug\SistemaCitasMedicas.exe
+D:\SEMANA_06\Ejemplo5\SistemaCitasMedicas\bin\Debug\SistemaCitasMedicas.pdb
+D:\SEMANA_06\Ejemplo5\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.csproj.AssemblyReference.cache
+D:\SEMANA_06\Ejemplo5\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.csproj.CoreCompileInputs.cache
+D:\SEMANA_06\Ejemplo5\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.exe
+D:\SEMANA_06\Ejemplo5\SistemaCitasMedicas\obj\Debug\SistemaCitasMedicas.pdb
